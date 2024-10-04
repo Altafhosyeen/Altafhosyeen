@@ -10,7 +10,8 @@ I’m always eager to expand my skill set and stay updated with the latest trend
 I'm open to collaborating on projects that involve **React.js** and **TypeScript** or those that push the boundaries of front-end development. Whether it's building a new feature-rich web app, improving existing codebases, or exploring innovative UI/UX solutions, I'm excited to contribute and learn from other developers.
 
 📫 **How to Reach Me:**  
-Feel free to reach out via email at [altafhosyeen@gmail.com](mailto:altafhosyeen@gmail.com) or connect with me on [LinkedIn]([[https://www.linkedin.com/in/altafhosyeen](https://www.linkedin.com/in/altaf-hussain-410129202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/altaf-hussain-410129202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) for any inquiries, collaboration opportunities, or just to network.
+Feel free to reach out via email at [altafhosyeen@gmail.com](mailto:altafhosyeen@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/altaf-hussain-410129202) for any inquiries, collaboration opportunities, or just to network.
+
 
 ---
 
