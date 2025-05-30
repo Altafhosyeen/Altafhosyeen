@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 💬 Ask me about **React ,Svelte,Typescript,Tailwind,Strip**
+- 💬 Ask me about **React,Typescript,Tailwind,Strip,websocket**
 
 - 📫 How to reach me **altafhosyeen@gmail.com**
 
