@@ -1,60 +1,28 @@
-<h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from Pakistan</h3>
+<h1 align="center">👋 Hi, I'm Altaf Hussain</h1>
+<h3 align="center">Frontend Developer | React.js Enthusiast | TypeScript Fan | UI Perfectionist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=React+%7C+TypeScript+%7C+Tailwind+CSS+%7C+WebSocket+%7C+Stripe+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Clean+Code+%F0%9F%92%BB;Modern+UI%2FUX+%F0%9F%8C%8C;Performance+Driven+Frontend+%E2%9A%A1;React.js+%2B+Tailwind+%2B+TypeScript+%F0%9F%93%A1" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🌱 I’m currently sharpening my skills in **advanced TypeScript patterns** and **design systems**  
-- 💬 Ask me about: **React, TypeScript, Tailwind CSS, Stripe, WebSocket**
-- 🛠️ Tech I work with: `React`, `Next.js`, `Tailwind`, `TypeScript`, `Ant Design`, `Stripe API`, `WebSocket`
-- 📫 Reach me at: **altafhosyeen@gmail.com**
+### 💡 About Me
+
+I'm a passionate frontend developer from Pakistan, focused on building modern, accessible, and scalable web applications using **React**, **TypeScript**, and **Tailwind CSS**. My development approach is user-centric, clean, and performance-driven — with a deep love for UI detail and maintainable codebases.
+
+- 🔭 Currently working on: **Component Libraries**, **Dynamic Dashboards**, and **Stripe Integration**
+- 🌱 Exploring: **State Machines**, **Framer Motion**, **Design Systems**
+- 🛠️ Strong focus on: **Code readability**, **Reusable components**, **Async API handling**
+- 💬 Talk to me about: `React`, `TypeScript`, `Tailwind`, `Stripe`, `WebSocket`, `Ant Design`
+- 📬 Reach me: **altafhosyeen@gmail.com**
 
 ---
 
-### 🧰 Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,redux,nextjs,bootstrap,git,github,vscode" />
-</p>
+### 🧠 Tech Stack
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Altafhosyeen&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Altafhosyeen&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Connect With Me
-<p>
-  <a href="https://dev.to/altafhussain" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="mailto:altafhosyeen@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🚀 Projects
-- [🔗 Portfolio Website](#) — _Coming soon with animations, background video, and custom UI_
-- [🔗 Stripe Checkout App](#)
-- [🔗 Real-time WebSocket Chat App](#)
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Altafhosyeen&theme=react-dark" />
-</p>
-
----
-
-> ⚡ *Frontend isn’t just coding UI — it’s about building seamless, fast, and beautiful user experiences.*  
-> Let’s connect and create something great!
-
+```ts
+Frontend:   React.js · Next.js · TypeScript · Tailwind CSS · Redux · Ant Design  
+Backend:    REST APIs · WebSocket · Node.js (Basics)  
+Tools:      Git · GitHub · Figma · Postman · VSCode  
+Others:     Stripe API · Responsive Design · Custom Hooks & HOCs
