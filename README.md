@@ -64,19 +64,6 @@ I specialize in **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**,
 
 ---
 
-# 📈 Currently Learning
-
-* 🚀 Advanced Next.js
-* 🏗️ Micro Frontend Architecture
-* 🎬 Framer Motion
-* 🔄 State Machines (XState)
-* 🐳 Docker
-* ⚙️ CI/CD Pipelines
-* 🧠 Frontend System Design
-* ☁️ Cloud Deployment
-
----
-
 # 💬 Ask Me About
 
 ```ts
