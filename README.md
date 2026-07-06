@@ -1,125 +1,79 @@
 <h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
+
 <h3 align="center">
-Frontend Engineer | React.js • TypeScript • Next.js | Building Scalable & Modern Web Applications
+Frontend Engineer • React.js • Next.js • TypeScript • Building Modern, Scalable & High-Performance Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Engineer+%F0%9F%92%BB;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Clean+Code+%E2%9C%A8;Performance+%26+Accessibility+Focused;Modern+UI%2FUX+Craftsman+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Engineer+💻;React.js+•+Next.js+•+TypeScript;Crafting+Modern+UI%2FUX+Experiences;Performance+%26+Accessibility+Focused;Clean+Code+%7C+Scalable+Architecture;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm a **Frontend Engineer** from **Pakistan** passionate about building modern, scalable, and high-performance web applications.
+I'm a **Frontend Engineer** from **Pakistan**, passionate about crafting modern, scalable, and user-focused web applications.
 
-I specialize in creating responsive user interfaces with **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**, while following best practices for maintainability, accessibility, and performance.
+I specialize in **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**, building responsive interfaces with clean architecture, reusable components, and optimized performance. I enjoy turning complex business requirements into intuitive digital experiences while following industry best practices for accessibility, maintainability, and scalability.
 
-I enjoy transforming complex business requirements into intuitive user experiences and writing clean, reusable code that scales.
+### 🚀 Current Focus
 
-### 🚀 What I'm Working On
-
-- 🔭 Building enterprise-grade React applications
-- ⚡ Developing reusable component libraries
-- 🎨 Designing responsive dashboards & admin panels
-- 💳 Integrating Stripe Payment Gateway
-- 🌱 Learning Design Systems, Framer Motion & State Machines
-- 📚 Improving Software Architecture & Frontend Performance
+* 🔭 Building enterprise-grade React & Next.js applications
+* 🧩 Developing reusable UI component libraries
+* 🎨 Creating responsive dashboards and admin panels
+* 💳 Integrating Stripe Payment Gateway
+* ⚡ Optimizing frontend performance and user experience
+* 🌱 Exploring Design Systems, Framer Motion, XState & Micro Frontends
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Frontend
+| **Frontend Development** | **Backend & APIs**      |
+| ------------------------ | ----------------------- |
+| ⚛️ React.js              | 🌐 REST APIs            |
+| ▲ Next.js                | 🔌 WebSocket            |
+| 🔷 TypeScript            | 💳 Stripe API           |
+| 🟨 JavaScript (ES6+)     | 📡 Axios                |
+| 🌐 HTML5                 | 🟢 Node.js (Basics)     |
+| 🎨 CSS3                  | 🚀 Express.js (Basics)  |
+| 💨 Tailwind CSS          | 🔐 Authentication (JWT) |
+| 🧩 Ant Design            | 🔄 API Integration      |
+| 🎯 Material UI           | 📄 JSON Processing      |
 
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Ant Design
-- Material UI
-- Bootstrap
+| **State Management**              | **UI/UX & Performance**         |
+| --------------------------------- | ------------------------------- |
+| 🧠 Redux Toolkit                  | 📱 Responsive Design            |
+| ⚡ TanStack Query                  | ♿ Accessibility (WCAG)          |
+| 🌍 React Context API              | 🎨 Pixel-Perfect UI             |
+| 🪝 Custom Hooks                   | 🖌️ Figma to React              |
+| 🧩 Higher-Order Components (HOCs) | 🚀 Performance Optimization     |
+| 📦 Zustand (Learning)             | ⚡ Code Splitting & Lazy Loading |
+| 🔄 Async State Management         | 🔍 SEO Best Practices           |
 
-### ⚙️ State Management
-
-- Redux Toolkit
-- React Context API
-- React Query (TanStack Query)
-- Zustand (Learning)
-
-### 🔌 APIs & Backend
-
-- REST APIs
-- WebSocket
-- Stripe API
-- Axios
-- Node.js (Basics)
-- Express.js (Basics)
-
-### 🎨 UI/UX
-
-- Responsive Design
-- Mobile First Development
-- Accessibility (WCAG)
-- Cross Browser Compatibility
-- Design Systems
-- Figma to React
-- Pixel Perfect UI
-
-### 🚀 Performance
-
-- Code Splitting
-- Lazy Loading
-- Memoization
-- Performance Optimization
-- SEO Basics
-- Lighthouse Optimization
-
-### 🧪 Testing
-
-- Jest
-- React Testing Library
-- Cypress (Learning)
-
-### 🛠 Tools
-
-- Git
-- GitHub
-- VS Code
-- Figma
-- Postman
-- npm
-- Yarn
-- Vite
-- Webpack
-
-### 📦 Development Practices
-
-- Clean Code
-- Component Driven Development
-- Reusable Components
-- Custom Hooks
-- Higher Order Components (HOCs)
-- Error Handling
-- Async Programming
-- Agile Development
-- Git Flow
-- Code Reviews
+| **Developer Tools**             | **Engineering Practices**        |
+| ------------------------------- | -------------------------------- |
+| 🐙 Git & GitHub                 | 🧹 Clean Code                    |
+| 💻 Visual Studio Code           | 🧩 Reusable Components           |
+| 🎨 Figma                        | 🏗️ Component-Driven Development |
+| 📬 Postman                      | ⚠️ Error Handling                |
+| 📦 npm & Yarn                   | 🔄 Async Programming             |
+| ⚡ Vite                          | 🌿 Git Flow                      |
+| 🔧 Webpack                      | 🚀 Agile Development             |
+| 🧪 Jest & React Testing Library | 👥 Code Reviews                  |
 
 ---
 
 # 📈 Currently Learning
 
-- Advanced Next.js
-- Micro Frontends
-- Framer Motion
-- State Machines (XState)
-- Docker
-- CI/CD
-- System Design for Frontend Engineers
+* 🚀 Advanced Next.js
+* 🏗️ Micro Frontend Architecture
+* 🎬 Framer Motion
+* 🔄 State Machines (XState)
+* 🐳 Docker
+* ⚙️ CI/CD Pipelines
+* 🧠 Frontend System Design
+* ☁️ Cloud Deployment
 
 ---
 
@@ -129,24 +83,29 @@ I enjoy transforming complex business requirements into intuitive user experienc
 React.js
 Next.js
 TypeScript
-JavaScript
+JavaScript (ES6+)
 Tailwind CSS
 Redux Toolkit
-React Query
+TanStack Query
 REST APIs
 Stripe Integration
 WebSocket
 Ant Design
 Responsive UI
 Performance Optimization
+Clean Architecture
 ```
 
 ---
 
-# 📫 Contact
+# 📫 Connect With Me
 
-📧 **Email:** altafhosyeen@gmail.com
+📧 **Email:** [altafhosyeen@gmail.com](mailto:altafhosyeen@gmail.com)
+
+💼 **Open to collaborating on Frontend, React, and Next.js projects.**
 
 ---
 
-> *"Great user experiences are built with clean code, thoughtful design, and continuous learning."*
+<p align="center">
+<i>"Building fast, accessible, and delightful user experiences—one component at a time."</i>
+</p>
