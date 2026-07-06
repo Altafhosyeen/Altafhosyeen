@@ -1,28 +1,152 @@
-<h1 align="center">👋 Hi, I'm Altaf Hussain</h1>
-<h3 align="center">Frontend Developer | React.js Enthusiast | TypeScript Fan | UI Perfectionist</h3>
+<h1 align="center">Hi 👋, I'm Altaf Hussain</h1>
+<h3 align="center">
+Frontend Engineer | React.js • TypeScript • Next.js | Building Scalable & Modern Web Applications
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Clean+Code+%F0%9F%92%BB;Modern+UI%2FUX+%F0%9F%8C%8C;Performance+Driven+Frontend+%E2%9A%A1;React.js+%2B+Tailwind+%2B+TypeScript+%F0%9F%93%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Engineer+%F0%9F%92%BB;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Clean+Code+%E2%9C%A8;Performance+%26+Accessibility+Focused;Modern+UI%2FUX+Craftsman+%F0%9F%8E%A8" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 About Me
+# 💫 About Me
 
-I'm a passionate frontend developer from Pakistan, focused on building modern, accessible, and scalable web applications using **React**, **TypeScript**, and **Tailwind CSS**. My development approach is user-centric, clean, and performance-driven — with a deep love for UI detail and maintainable codebases.
+I'm a **Frontend Engineer** from **Pakistan** passionate about building modern, scalable, and high-performance web applications.
 
-- 🔭 Currently working on: **Component Libraries**, **Dynamic Dashboards**, and **Stripe Integration**
-- 🌱 Exploring: **State Machines**, **Framer Motion**, **Design Systems**
-- 🛠️ Strong focus on: **Code readability**, **Reusable components**, **Async API handling**
-- 💬 Talk to me about: `React`, `TypeScript`, `Tailwind`, `Stripe`, `WebSocket`, `Ant Design`
-- 📬 Reach me: **altafhosyeen@gmail.com**
+I specialize in creating responsive user interfaces with **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**, while following best practices for maintainability, accessibility, and performance.
+
+I enjoy transforming complex business requirements into intuitive user experiences and writing clean, reusable code that scales.
+
+### 🚀 What I'm Working On
+
+- 🔭 Building enterprise-grade React applications
+- ⚡ Developing reusable component libraries
+- 🎨 Designing responsive dashboards & admin panels
+- 💳 Integrating Stripe Payment Gateway
+- 🌱 Learning Design Systems, Framer Motion & State Machines
+- 📚 Improving Software Architecture & Frontend Performance
 
 ---
 
-### 🧠 Tech Stack
+# 🛠 Tech Stack
+
+### 💻 Frontend
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Ant Design
+- Material UI
+- Bootstrap
+
+### ⚙️ State Management
+
+- Redux Toolkit
+- React Context API
+- React Query (TanStack Query)
+- Zustand (Learning)
+
+### 🔌 APIs & Backend
+
+- REST APIs
+- WebSocket
+- Stripe API
+- Axios
+- Node.js (Basics)
+- Express.js (Basics)
+
+### 🎨 UI/UX
+
+- Responsive Design
+- Mobile First Development
+- Accessibility (WCAG)
+- Cross Browser Compatibility
+- Design Systems
+- Figma to React
+- Pixel Perfect UI
+
+### 🚀 Performance
+
+- Code Splitting
+- Lazy Loading
+- Memoization
+- Performance Optimization
+- SEO Basics
+- Lighthouse Optimization
+
+### 🧪 Testing
+
+- Jest
+- React Testing Library
+- Cypress (Learning)
+
+### 🛠 Tools
+
+- Git
+- GitHub
+- VS Code
+- Figma
+- Postman
+- npm
+- Yarn
+- Vite
+- Webpack
+
+### 📦 Development Practices
+
+- Clean Code
+- Component Driven Development
+- Reusable Components
+- Custom Hooks
+- Higher Order Components (HOCs)
+- Error Handling
+- Async Programming
+- Agile Development
+- Git Flow
+- Code Reviews
+
+---
+
+# 📈 Currently Learning
+
+- Advanced Next.js
+- Micro Frontends
+- Framer Motion
+- State Machines (XState)
+- Docker
+- CI/CD
+- System Design for Frontend Engineers
+
+---
+
+# 💬 Ask Me About
 
 ```ts
-Frontend:   React.js · Next.js · TypeScript · Tailwind CSS · Redux · Ant Design  
-Backend:    REST APIs · WebSocket · Node.js (Basics)  
-Tools:      Git · GitHub · Figma · Postman · VSCode  
-Others:     Stripe API · Responsive Design · Custom Hooks & HOCs
+React.js
+Next.js
+TypeScript
+JavaScript
+Tailwind CSS
+Redux Toolkit
+React Query
+REST APIs
+Stripe Integration
+WebSocket
+Ant Design
+Responsive UI
+Performance Optimization
+```
+
+---
+
+# 📫 Contact
+
+📧 **Email:** altafhosyeen@gmail.com
+
+---
+
+> *"Great user experiences are built with clean code, thoughtful design, and continuous learning."*
